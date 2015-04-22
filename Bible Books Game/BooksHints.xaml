@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="Bible_Books_Game.BooksHints"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Bible_Books_Game"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image Source="Images/backgroundImage.PNG" Stretch="Fill" Margin="10" />
+        <Image  x:Name="bookList" Height="100" HorizontalAlignment="Left" Margin="484,10,0,658" Stretch="Fill" VerticalAlignment="Center" Width="456" Source="Images/booksList.png"/>
+        <Image  x:Name="back" Height="100" HorizontalAlignment="Left" Margin="613,648,0,20" Stretch="Fill" VerticalAlignment="Center" Width="456" Source="Images/back.png" Tapped="back_Tapped"/>
+        <ListBox x:Name="displayMsg" FontFamily="Arial" FontWeight="Medium" FontSize="28" VerticalAlignment="Center" Height="463" Margin="418,108,364,197" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="12,17,20,28" >
+                        <TextBlock Text="{Binding myBook}" TextWrapping="Wrap" Foreground="Blue" VerticalAlignment="Center" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Transparent" Offset="0" />
+                    <GradientStop Color="#82CAFA" Offset="1" />
+                </LinearGradientBrush>
+            </ListBox.Background>
+        </ListBox>
+
+    </Grid>
+</Page>

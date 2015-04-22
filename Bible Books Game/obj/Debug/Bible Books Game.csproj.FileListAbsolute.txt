@@ -1,0 +1,306 @@
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\App.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\BeginnersGame.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\BooksHints.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\MainPage.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\MatureLevel.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\QuizGame.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\ScoreBeginner.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\ScoreMature.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\SoreQuiz.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\Bible Books Game.xr.xml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\Bible Books Game.exe
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\Bible Books Game.pdb
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\resources.pri
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\AppxManifest.xml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\Bible Books Game.build.appxrecipe
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\App.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\App.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BeginnersGame.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BeginnersGame.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BooksHints.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BooksHints.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MainPage.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MainPage.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MatureLevel.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MatureLevel.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\QuizGame.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\QuizGame.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoreBeginner.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoreBeginner.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoreMature.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoreMature.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\SoreQuiz.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\SoreQuiz.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\App.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BeginnersGame.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BooksHints.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MatureLevel.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\QuizGame.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoreBeginner.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoreMature.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\SoreQuiz.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\App.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BeginnersGame.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BooksHints.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MatureLevel.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\QuizGame.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoreBeginner.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoreMature.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\SoreQuiz.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\XamlSaveStateFile.xml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MainPage.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MainPage.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\Bible Books Game.exe
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\Bible Books Game.pdb
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\priconfig.xml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\priconfig.xml.intermediate
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\layout.resfiles
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\layout.resfiles.intermediate
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\resources.resfiles
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\resources.resfiles.intermediate
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\pri.resfiles
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\pri.resfiles.intermediate
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\qualifiers.txt
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\qualifiers.txt.intermediate
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ProjectArchitectures.txt
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\About.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\About.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\scores.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\scores.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\About.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\scores.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\About.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\scores.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\About.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\scores.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\ExtendedSplash.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ExtendedSplash.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ExtendedSplash.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ExtendedSplash.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ExtendedSplash.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\Settings.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\Settings.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\Settings.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\Settings.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\Settings.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MatureSettingsPage.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MatureSettingsPage.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MatureSettingsPage.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\MatureSettingsPage.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\BeginnerSettingsPage.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\MatureSettingsPage.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\bin\Debug\ScoresMenu.xbf
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoresMenu.g.i.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoresMenu.g.cs
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoresMenu.xaml
+C:\Users\James\Documents\Bible Books Game\Bible Books Game\Bible Books Game\obj\Debug\ScoresMenu.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\App.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\About.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\BeginnerSettingsPage.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\BeginnersGame.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\BooksHints.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\ExtendedSplash.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\MainPage.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\MatureLevel.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\MatureSettingsPage.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\QuizGame.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\ScoreBeginner.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\ScoreMature.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\scores.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\ScoresMenu.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\Settings.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\SoreQuiz.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.xr.xml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.exe
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.pdb
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\resources.pri
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\AppxManifest.xml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.build.appxrecipe
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\App.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\App.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\About.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\About.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnersGame.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnersGame.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BooksHints.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BooksHints.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ExtendedSplash.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ExtendedSplash.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MainPage.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MainPage.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MatureLevel.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MatureLevel.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MatureSettingsPage.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MatureSettingsPage.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\QuizGame.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\QuizGame.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreBeginner.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreBeginner.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreMature.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreMature.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\scores.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\scores.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoresMenu.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoresMenu.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\Settings.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\Settings.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\SoreQuiz.g.i.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\SoreQuiz.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\App.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\About.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnersGame.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BooksHints.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ExtendedSplash.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MainPage.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MatureLevel.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MatureSettingsPage.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\QuizGame.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreBeginner.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreMature.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\scores.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoresMenu.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\Settings.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\SoreQuiz.xaml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\App.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\About.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnersGame.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\BooksHints.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ExtendedSplash.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MainPage.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MatureLevel.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MatureSettingsPage.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\QuizGame.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreBeginner.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreMature.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\scores.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ScoresMenu.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\Settings.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\SoreQuiz.xbf
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\XamlSaveStateFile.xml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\Bible Books Game.exe
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\Bible Books Game.pdb
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\priconfig.xml
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\priconfig.xml.intermediate
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\layout.resfiles
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\layout.resfiles.intermediate
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\resources.resfiles
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\resources.resfiles.intermediate
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\pri.resfiles
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\pri.resfiles.intermediate
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\qualifiers.txt
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\qualifiers.txt.intermediate
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\ProjectArchitectures.txt
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\App.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\About.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\BeginnerSettingsPage.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\BeginnersGame.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\BooksHints.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\ExtendedSplash.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\MainPage.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\MatureLevel.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\MatureSettingsPage.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\QuizGame.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\ScoreBeginner.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\ScoreMature.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\scores.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\ScoresMenu.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\Settings.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\SoreQuiz.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.xr.xml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.exe
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.pdb
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\resources.pri
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\AppxManifest.xml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.build.appxrecipe
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\App.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\App.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\About.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\About.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnersGame.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnersGame.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BooksHints.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BooksHints.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ExtendedSplash.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ExtendedSplash.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MainPage.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MainPage.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MatureLevel.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MatureLevel.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MatureSettingsPage.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MatureSettingsPage.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\QuizGame.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\QuizGame.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreBeginner.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreBeginner.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreMature.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreMature.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\scores.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\scores.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoresMenu.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoresMenu.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\Settings.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\Settings.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\SoreQuiz.g.i.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\SoreQuiz.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\XamlTypeInfo.g.cs
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\App.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\About.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnersGame.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BooksHints.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ExtendedSplash.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MainPage.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MatureLevel.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MatureSettingsPage.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\QuizGame.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreBeginner.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreMature.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\scores.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoresMenu.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\Settings.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\SoreQuiz.xaml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\App.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\About.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnerSettingsPage.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BeginnersGame.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\BooksHints.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ExtendedSplash.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MainPage.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MatureLevel.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MatureSettingsPage.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\QuizGame.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreBeginner.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoreMature.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\scores.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ScoresMenu.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\Settings.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\SoreQuiz.xbf
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\XamlSaveStateFile.xml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\Bible Books Game.exe
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\Bible Books Game.pdb
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\priconfig.xml
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\priconfig.xml.intermediate
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\layout.resfiles
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\layout.resfiles.intermediate
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\resources.resfiles
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\resources.resfiles.intermediate
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\pri.resfiles
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\pri.resfiles.intermediate
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\qualifiers.txt
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\qualifiers.txt.intermediate
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\ProjectArchitectures.txt

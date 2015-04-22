@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Bible_Books_Game.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Bible_Books_Game"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image Source="Images/backgroundImage.PNG" Stretch="Fill" Margin="10" />
+        <Image  x:Name="booksList" Height="100" HorizontalAlignment="Left" Margin="837,658,0,10" Stretch="Fill" VerticalAlignment="Center" Width="456" Source="Images/booksList.png" Tapped="booksList_Tapped"/>
+        <TextBlock HorizontalAlignment="Left" Margin="102,72,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="361" Width="1191" x:Name="info" TextAlignment="Center" FontSize="30" Foreground="Blue" FontWeight="SemiBold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="102,433,0,0" TextWrapping="Wrap" Text="Developed By: James Ngondo Copyright 2015" VerticalAlignment="Top" Height="107" Width="510" Foreground="Red" FontFamily="Comic Sans MS" FontWeight="Bold" FontSize="30"/>
+        <Image x:Name="book" Height="232" HorizontalAlignment="Left" Margin="0,526,0,10" Stretch="Fill" VerticalAlignment="Center" Width="332" Source="Images/bibleBook.png"/>
+    </Grid>
+</Page>

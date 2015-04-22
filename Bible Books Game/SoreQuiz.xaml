@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="Bible_Books_Game.SoreQuiz"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Bible_Books_Game"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image Source="Images/backgroundImage.PNG" Stretch="Fill" Margin="0,0,-10,0" />
+        <Image Height="105" HorizontalAlignment="Left" Margin="868,145,0,518" Stretch="Fill" VerticalAlignment="Center" Width="267" Source="Images/score.png" />
+        <Image Height="105" HorizontalAlignment="Left" Margin="516,10,0,653" Stretch="Fill" VerticalAlignment="Center" Width="482" Source="Images/quizScore.png" />
+        <Image Height="100" HorizontalAlignment="Left" Margin="364,150,0,518" Stretch="Fill" VerticalAlignment="Center" Width="339" Source="Images/player.png" />
+        <Image Height="100" HorizontalAlignment="Left" Margin="610,628,0,40" Stretch="Fill" VerticalAlignment="Center" Width="487" Source="Images/back.png" x:Name="back" Tapped="back_Tapped"/>
+
+        <Image Height="60" HorizontalAlignment="Left" Margin="341,255,0,453" Stretch="Fill" VerticalAlignment="Center" Width="30" Source="Images/pic1.png" />
+        <TextBlock x:Name="nameScoreOne" Height="60" Width="383" Margin="406,250,0,458" HorizontalAlignment="Left" VerticalAlignment="Center" Text="" Foreground="Black" FontFamily="Comic Sans MS" TextAlignment="Left" FontSize="40" FontWeight="Bold" />
+        <TextBlock x:Name="highscoreBlockOne" Margin="897,250,0,462" HorizontalAlignment="Left" VerticalAlignment="Center" Text="" Foreground="Black" FontFamily="Comic Sans MS" TextAlignment="Left" FontSize="40" FontWeight="Bold" Width="200" />
+
+        <Image x:Name="book" Height="188" HorizontalAlignment="Left" Margin="1117,580,0,0" Stretch="Fill" VerticalAlignment="Center" Width="239" Source="Images/bibleBook.png"/>
+        <Image Height="60" HorizontalAlignment="Left" Margin="321,320,0,388" Stretch="Fill" VerticalAlignment="Center" Width="50" Source="Images/pic2.png" />
+        <TextBlock x:Name="nameScoreTwo" Height="60" Width="383" Margin="406,315,0,393" HorizontalAlignment="Left" VerticalAlignment="Center" Text="" Foreground="Black" FontFamily="Comic Sans MS" TextAlignment="Left" FontSize="40" FontWeight="Bold" />
+        <TextBlock x:Name="highscoreBlockTwo" Height="60" Width="200" Margin="897,315,0,393" HorizontalAlignment="Left" VerticalAlignment="Center" Text="" Foreground="Black" FontFamily="Comic Sans MS" TextAlignment="Left" FontSize="40" FontWeight="Bold" />
+
+
+        <Image Height="60" HorizontalAlignment="Left" Margin="321,385,0,323" Stretch="Fill" VerticalAlignment="Center" Width="50" Source="Images/pic3.png" />
+        <TextBlock x:Name="nameScoreThree" Height="60" Width="383" Margin="406,380,0,328" HorizontalAlignment="Left" VerticalAlignment="Center" Text="" Foreground="Black" FontFamily="Comic Sans MS" TextAlignment="Left" FontSize="40" FontWeight="Bold" />
+        <TextBlock x:Name="highscoreBlockThree" Height="60" Width="200" Margin="897,380,0,328" HorizontalAlignment="Left" VerticalAlignment="Center" Text="" Foreground="Black" FontFamily="Comic Sans MS" TextAlignment="Left" FontSize="40" FontWeight="Bold" />
+
+
+        <Image Height="60" HorizontalAlignment="Left" Margin="321,440,0,268" Stretch="Fill" VerticalAlignment="Center" Width="50" Source="Images/pic4.png" />
+        <TextBlock x:Name="nameScoreFour" Height="60" Width="383" Margin="406,440,0,268" HorizontalAlignment="Left" VerticalAlignment="Center" Text="" Foreground="Black" FontFamily="Comic Sans MS" TextAlignment="Left" FontSize="40" FontWeight="Bold" />
+        <TextBlock x:Name="highscoreBlockFour" Height="60" Width="200" Margin="897,445,0,263" HorizontalAlignment="Left" VerticalAlignment="Center" Text="" Foreground="Black" FontFamily="Comic Sans MS" TextAlignment="Left" FontSize="40" FontWeight="Bold" />
+
+
+        <Image Height="50" HorizontalAlignment="Left" Margin="321,510,0,208" Stretch="Fill" VerticalAlignment="Center" Width="50" Source="Images/pic5.png" />
+        <TextBlock x:Name="nameScoreFive" Height="60" Width="383" Margin="406,500,0,208" HorizontalAlignment="Left" VerticalAlignment="Center" Text="" Foreground="Black" FontFamily="Comic Sans MS" TextAlignment="Left" FontSize="40" FontWeight="Bold" />
+        <TextBlock x:Name="highscoreBlockFive" Height="60" Width="200" Margin="897,510,0,198" HorizontalAlignment="Left" VerticalAlignment="Center" Text="" Foreground="Black" FontFamily="Comic Sans MS" TextAlignment="Left" FontSize="40" FontWeight="Bold" />
+
+        <Grid x:Name="Snap" Visibility="Collapsed"  >
+            <Image Stretch="Fill" Source="Images/backgroundImageFinal.png" />
+        </Grid>
+    </Grid>
+</Page>

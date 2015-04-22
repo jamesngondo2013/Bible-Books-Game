@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<books>
+  <book>
+    <bookName>1. Genesis</bookName>
+  </book>
+  <book>
+    <bookName>2. Exodus</bookName>
+  </book>
+  <book>
+    <bookName>3. Leviticus</bookName>
+  </book>
+  <book>
+    <bookName>4. Numbers</bookName>
+  </book>
+  <book>
+    <bookName>5. Deuteronomy</bookName>
+  </book>
+  <book>
+    <bookName>6. Joshua</bookName>
+  </book>
+  <book>
+    <bookName>7. Judges</bookName>
+  </book>
+  <book>
+    <bookName>8. Ruth</bookName>
+  </book>
+  <book>
+    <bookName>9. 1 Samuel</bookName>
+  </book>
+  <book>
+    <bookName>10. 2 Samuel</bookName>
+  </book>
+  <book>
+    <bookName>11. 1 Kings</bookName>
+  </book>
+  <book>
+    <bookName>12. 2 Kings</bookName>
+  </book>
+  <book>
+    <bookName>13. 1 Chronicles</bookName>
+  </book>
+  <book>
+    <bookName>14. 2 Chronicles</bookName>
+  </book>
+  <book>
+    <bookName>15. Ezra</bookName>
+  </book>
+  <book>
+    <bookName>16. Nehemiah</bookName>
+  </book>
+  <book>
+    <bookName>17. Esther</bookName>
+  </book>
+  <book>
+    <bookName>18. Job</bookName>
+  </book>
+  <book>
+    <bookName>19. Psalms</bookName>
+  </book>
+  <book>
+    <bookName>20. Proverbs</bookName>
+  </book>
+  <book>
+    <bookName>21. Ecclessiates</bookName>
+  </book>
+  <book>
+    <bookName>22. Songs Of Solomon</bookName>
+  </book>
+  <book>
+    <bookName>23. Isaiah</bookName>
+  </book>
+  <book>
+    <bookName>24. Jeremiah</bookName>
+  </book>
+  <book>
+    <bookName>25. Lamentations</bookName>
+  </book>
+  <book>
+    <bookName>26. Ezekiel</bookName>
+  </book>
+  <book>
+    <bookName>27. Daniel</bookName>
+  </book>
+  <book>
+    <bookName>28. Hosea</bookName>
+  </book>
+  <book>
+    <bookName>29. Joel</bookName>
+  </book>
+  <book>
+    <bookName>30. Amos</bookName>
+  </book>
+  <book>
+    <bookName>31. Obadiah</bookName>
+  </book>
+  <book>
+    <bookName>32. Jonah</bookName>
+  </book>
+  <book>
+    <bookName>33. Micah</bookName>
+  </book>
+  <book>
+    <bookName>34. Nahum</bookName>
+  </book>
+  <book>
+    <bookName>35. Habakkuk</bookName>
+  </book>
+  <book>
+    <bookName>36. Zephaniah</bookName>
+  </book>
+  <book>
+    <bookName>37. Haggai</bookName>
+  </book>
+  <book>
+    <bookName>38. Zechariah</bookName>
+  </book>
+  <book>
+    <bookName>39. Malachi</bookName>
+  </book>
+</books>
+
