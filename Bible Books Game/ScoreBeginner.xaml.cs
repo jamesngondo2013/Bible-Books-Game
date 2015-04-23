@@ -30,20 +30,20 @@ namespace Bible_Books_Game
 
         public void MyHighScores()
         {
-            nameScoreOne.Text = GlobalVar1.HighScoreNameOne;
-            highscoreBlockOne.Text = GlobalVar1.HighScoreOne.ToString();
+            nameScoreOne.Text = GlobalVars.HighScoreNameOne;
+            highscoreBlockOne.Text = GlobalVars.HighScoreOne.ToString();
 
-            nameScoreTwo.Text = GlobalVar1.HighScoreNameTwo;
-            highscoreBlockTwo.Text = GlobalVar1.HighScoreTwo.ToString();
+            nameScoreTwo.Text = GlobalVars.HighScoreNameTwo;
+            highscoreBlockTwo.Text = GlobalVars.HighScoreTwo.ToString();
 
-            nameScoreThree.Text = GlobalVar1.HighScoreNameThree;
-            highscoreBlockThree.Text = GlobalVar1.HighScoreThree.ToString();
+            nameScoreThree.Text = GlobalVars.HighScoreNameThree;
+            highscoreBlockThree.Text = GlobalVars.HighScoreThree.ToString();
 
-            nameScoreFour.Text = GlobalVar1.HighScoreNameFour;
-            highscoreBlockFour.Text = GlobalVar1.HighScoreFour.ToString();
+            nameScoreFour.Text = GlobalVars.HighScoreNameFour;
+            highscoreBlockFour.Text = GlobalVars.HighScoreFour.ToString();
 
-            nameScoreFive.Text = GlobalVar1.HighScoreNameFive;
-            highscoreBlockFive.Text = GlobalVar1.HighScoreFive.ToString();
+            nameScoreFive.Text = GlobalVars.HighScoreNameFive;
+            highscoreBlockFive.Text = GlobalVars.HighScoreFive.ToString();
         }
 
         protected override void OnNavigatedTo(NavigationEventArgs e)

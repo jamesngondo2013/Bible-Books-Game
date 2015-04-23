@@ -25,13 +25,12 @@ namespace Bible_Books_Game
     {
         public int userNumber = 1;
         public int bookCounter;
-        int guessCount=10, newCount=3;
+        int guessCount=10, newCount=2;
         public int scoreVal;
 
-        DispatcherTimer waitTimer = new DispatcherTimer();
-        DispatcherTimer guessTimer = new DispatcherTimer();
-        DispatcherTimer overTimer = new DispatcherTimer();
-
+       
+       DispatcherTimer guessTimer = new DispatcherTimer();
+       
         DispatcherTimer newTimer = new DispatcherTimer();
 
         public Random rand = new Random();
@@ -50,9 +49,15 @@ namespace Bible_Books_Game
             this.startGame();
 
             newTimer.Interval = TimeSpan.FromSeconds(1);
-            // Sub-routine OnTimerTick will be called at every 1 second
             newTimer.Tick += New_Tick;
            
+        }
+        private void startGame()
+        {
+            myRandomBooks();
+            guessTimer.Interval = new TimeSpan(0, 0, 0, 1, 0); // 1 second
+            guessTimer.Tick += Guess_Time;
+            guessTimer.Start();
         }
 
         private void New_Tick(object sender, object e)
@@ -60,7 +65,7 @@ namespace Bible_Books_Game
             newCount--;
             TimerBlock2.Text = newCount.ToString();
 
-            if (newCount == 3)
+            if (newCount == 2)
             {
                 TimerBlock.Text = "";
                QuestionBlock.Text = "";
@@ -84,7 +89,7 @@ namespace Bible_Books_Game
 
            
         }
-        private void Guess_Tick(object sender, object e)
+        private void Guess_Time(object sender, object e)
         {
             guessCount--;
             TimerBlock.Text = guessCount.ToString();
@@ -99,7 +104,7 @@ namespace Bible_Books_Game
                 ScoreBlock.Text = scoreVal.ToString();
                 myRandomBooks();
                 guessTimer.Start();
-                //QuestionBlock2.Text = "";
+               
             }
             if(booksList.Count == 0)
             {
@@ -247,14 +252,6 @@ namespace Bible_Books_Game
         private void checkScore_Tapped(object sender, TappedRoutedEventArgs e)
         {
             this.Frame.Navigate(typeof(ScoreMature));
-        }
-
-        private void startGame()
-        {
-            myRandomBooks();
-            guessTimer.Interval = new TimeSpan(0, 0, 0, 1, 0); // 1 second
-            guessTimer.Tick += Guess_Tick;
-            guessTimer.Start();
         }
 
         void Current_SizeChanged(object sender, Windows.UI.Core.WindowSizeChangedEventArgs e)

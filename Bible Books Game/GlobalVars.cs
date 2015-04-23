@@ -16,11 +16,11 @@ namespace Bible_Books_Game
         public static string HighScoreNameFive = "";
 
         public static int newHighScore;
-        public static int HighScoreOne = 0;
-        public static int HighScoreTwo = 0;
-        public static int HighScoreThree = 0;
-        public static int HighScoreFour = 0;
-        public static int HighScoreFive = 0;
+        public static int HighScoreOne;
+        public static int HighScoreTwo;
+        public static int HighScoreThree;
+        public static int HighScoreFour;
+        public static int HighScoreFive;
 
        
        

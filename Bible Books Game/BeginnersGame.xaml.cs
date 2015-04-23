@@ -176,52 +176,52 @@ namespace Bible_Books_Game
             }
 
 
-            GlobalVar1.newHighScore = scoreVal;
+            GlobalVars.newHighScore = scoreVal;
 
-            if (GlobalVar1.newHighScore > GlobalVar1.HighScoreOne)
+            if (GlobalVars.newHighScore > GlobalVars.HighScoreOne)
             {
-                GlobalVar1.HighScoreFive = GlobalVar1.HighScoreFour;
-                GlobalVar1.HighScoreNameFive = GlobalVar1.HighScoreNameFour;
-                GlobalVar1.HighScoreFour = GlobalVar1.HighScoreThree;
-                GlobalVar1.HighScoreNameFour = GlobalVar1.HighScoreNameThree;
-                GlobalVar1.HighScoreThree = GlobalVar1.HighScoreTwo;
-                GlobalVar1.HighScoreNameThree = GlobalVar1.HighScoreNameTwo;
-                GlobalVar1.HighScoreTwo = GlobalVar1.HighScoreOne;
-                GlobalVar1.HighScoreNameTwo = GlobalVar1.HighScoreNameOne;
-                GlobalVar1.HighScoreOne = GlobalVar1.newHighScore;
-                GlobalVar1.HighScoreNameOne = GlobalVarBeginner.Username;
+                GlobalVars.HighScoreFive = GlobalVars.HighScoreFour;
+                GlobalVars.HighScoreNameFive = GlobalVars.HighScoreNameFour;
+                GlobalVars.HighScoreFour = GlobalVars.HighScoreThree;
+                GlobalVars.HighScoreNameFour = GlobalVars.HighScoreNameThree;
+                GlobalVars.HighScoreThree = GlobalVars.HighScoreTwo;
+                GlobalVars.HighScoreNameThree = GlobalVars.HighScoreNameTwo;
+                GlobalVars.HighScoreTwo = GlobalVars.HighScoreOne;
+                GlobalVars.HighScoreNameTwo = GlobalVars.HighScoreNameOne;
+                GlobalVars.HighScoreOne = GlobalVars.newHighScore;
+                GlobalVars.HighScoreNameOne = GlobalVars.Username;
             }
-            else if (GlobalVar1.newHighScore > GlobalVar1.HighScoreTwo)
+            else if (GlobalVars.newHighScore > GlobalVars.HighScoreTwo)
             {
-                GlobalVar1.HighScoreFive = GlobalVar1.HighScoreFour;
-                GlobalVar1.HighScoreNameFive = GlobalVar1.HighScoreNameFour;
-                GlobalVar1.HighScoreFour = GlobalVar1.HighScoreThree;
-                GlobalVar1.HighScoreNameFour = GlobalVar1.HighScoreNameThree;
-                GlobalVar1.HighScoreThree = GlobalVar1.HighScoreTwo;
-                GlobalVar1.HighScoreNameThree = GlobalVar1.HighScoreNameTwo;
-                GlobalVar1.HighScoreTwo = GlobalVar1.newHighScore;
-                GlobalVar1.HighScoreNameTwo = GlobalVarBeginner.Username;
+                GlobalVars.HighScoreFive = GlobalVars.HighScoreFour;
+                GlobalVars.HighScoreNameFive = GlobalVars.HighScoreNameFour;
+                GlobalVars.HighScoreFour = GlobalVars.HighScoreThree;
+                GlobalVars.HighScoreNameFour = GlobalVars.HighScoreNameThree;
+                GlobalVars.HighScoreThree = GlobalVars.HighScoreTwo;
+                GlobalVars.HighScoreNameThree = GlobalVars.HighScoreNameTwo;
+                GlobalVars.HighScoreTwo = GlobalVars.newHighScore;
+                GlobalVars.HighScoreNameTwo = GlobalVars.Username;
             }
-            else if (GlobalVar1.newHighScore > GlobalVar1.HighScoreThree)
+            else if (GlobalVars.newHighScore > GlobalVars.HighScoreThree)
             {
-                GlobalVar1.HighScoreFive = GlobalVar1.HighScoreFour;
-                GlobalVar1.HighScoreNameFive = GlobalVar1.HighScoreNameFour;
-                GlobalVar1.HighScoreFour = GlobalVar1.HighScoreThree;
-                GlobalVar1.HighScoreNameFour = GlobalVar1.HighScoreNameThree;
-                GlobalVar1.HighScoreThree = GlobalVar1.newHighScore;
-                GlobalVar1.HighScoreNameThree = GlobalVarBeginner.Username;
+                GlobalVars.HighScoreFive = GlobalVars.HighScoreFour;
+                GlobalVars.HighScoreNameFive = GlobalVars.HighScoreNameFour;
+                GlobalVars.HighScoreFour = GlobalVars.HighScoreThree;
+                GlobalVars.HighScoreNameFour = GlobalVars.HighScoreNameThree;
+                GlobalVars.HighScoreThree = GlobalVars.newHighScore;
+                GlobalVars.HighScoreNameThree = GlobalVars.Username;
             }
-            else if (GlobalVar1.newHighScore > GlobalVar1.HighScoreFour)
+            else if (GlobalVars.newHighScore > GlobalVars.HighScoreFour)
             {
-                GlobalVar1.HighScoreFive = GlobalVar1.HighScoreFour;
-                GlobalVar1.HighScoreNameFive = GlobalVar1.HighScoreNameFour;
-                GlobalVar1.HighScoreFour = GlobalVar1.newHighScore;
-                GlobalVar1.HighScoreNameFour = GlobalVarBeginner.Username;
+                GlobalVars.HighScoreFive = GlobalVars.HighScoreFour;
+                GlobalVars.HighScoreNameFive = GlobalVars.HighScoreNameFour;
+                GlobalVars.HighScoreFour = GlobalVars.newHighScore;
+                GlobalVars.HighScoreNameFour = GlobalVars.Username;
             }
-            else if (GlobalVar1.newHighScore > GlobalVar1.HighScoreFive)
+            else if (GlobalVars.newHighScore > GlobalVars.HighScoreFive)
             {
-                GlobalVar1.HighScoreFive = GlobalVar1.newHighScore;
-                GlobalVar1.HighScoreNameFive = GlobalVarBeginner.Username;
+                GlobalVars.HighScoreFive = GlobalVars.newHighScore;
+                GlobalVars.HighScoreNameFive = GlobalVars.Username;
             }
                 
         }

@@ -26,20 +26,24 @@ namespace Bible_Books_Game
         {
             this.InitializeComponent();
 
-            if (GlobalVarBeginner.Username != null)
+            if (GlobalVars.Username != null)
             {
                 BeginnerNameBox.Text = GlobalVarBeginner.Username.ToString();
+            }
+            else
+            {
+                GlobalVars.Username = BeginnerNameBox.Text;
             }
         }
         protected override void OnNavigatedFrom(NavigationEventArgs e)
         {
-            GlobalVarBeginner.Username = BeginnerNameBox.Text;
+            GlobalVars.Username = BeginnerNameBox.Text;
         }
        
        
         private void save_Tapped(object sender, TappedRoutedEventArgs e)
         {
-            GlobalVarBeginner.Username = BeginnerNameBox.Text;
+            GlobalVars.Username = BeginnerNameBox.Text;
 
             this.Frame.Navigate(typeof(BeginnersGame));
         }

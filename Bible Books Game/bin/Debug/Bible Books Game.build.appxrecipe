@@ -7,217 +7,217 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>30c77ec3-d67c-4ecb-9b39-a21f259a1a22</PackageIdentityName>
-    <IntermediateOutputPath>A:\New Bible books game\Bible-Books-Game\Bible Books Game\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.exe">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.exe">
       <PackagePath>Bible Books Game.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Assets\about.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Assets\about.png">
       <PackagePath>Assets\about.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\aboutGame.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\aboutGame.png">
       <PackagePath>Images\aboutGame.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\advancedScore.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\advancedScore.png">
       <PackagePath>Images\advancedScore.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\advanced_level.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\advanced_level.png">
       <PackagePath>Images\advanced_level.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\back.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\back.png">
       <PackagePath>Images\back.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\backgroundImageFinal.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\backgroundImageFinal.png">
       <PackagePath>Images\backgroundImageFinal.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\bibleBook.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\bibleBook.png">
       <PackagePath>Images\bibleBook.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\booksLis2.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\booksLis2.png">
       <PackagePath>Images\booksLis2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\booksList.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\booksList.png">
       <PackagePath>Images\booksList.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\checkScore.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\checkScore.png">
       <PackagePath>Images\checkScore.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\matureScores.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\matureScores.png">
       <PackagePath>Images\matureScores.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\playerName.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\playerName.png">
       <PackagePath>Images\playerName.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\powerBtn.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\powerBtn.png">
       <PackagePath>Images\powerBtn.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\reset.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\reset.png">
       <PackagePath>Images\reset.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Assets\SplashScreen.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Assets\SplashScreen.scale-140.png">
       <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Assets\SplashScreen.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Assets\SplashScreen.scale-180.png">
       <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\backgroundImage.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\backgroundImage.png">
       <PackagePath>Images\backgroundImage.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\about.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\about.png">
       <PackagePath>Images\about.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\beginnerLevel.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\beginnerLevel.png">
       <PackagePath>Images\beginnerLevel.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\beginnerLevel1.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\beginnerLevel1.png">
       <PackagePath>Images\beginnerLevel1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\beginnerScore.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\beginnerScore.png">
       <PackagePath>Images\beginnerScore.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\BibleBooksCover.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\BibleBooksCover.png">
       <PackagePath>Images\BibleBooksCover.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\booksGame.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\booksGame.png">
       <PackagePath>Images\booksGame.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\booksOrder.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\booksOrder.png">
       <PackagePath>Images\booksOrder.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\checkScores.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\checkScores.png">
       <PackagePath>Images\checkScores.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\matureLevel.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\matureLevel.png">
       <PackagePath>Images\matureLevel.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\matureLevel1.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\matureLevel1.png">
       <PackagePath>Images\matureLevel1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\myBooks4.PNG">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\myBooks4.PNG">
       <PackagePath>Images\myBooks4.PNG</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\oldTestament.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\oldTestament.png">
       <PackagePath>Images\oldTestament.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\pic1.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\pic1.png">
       <PackagePath>Images\pic1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\pic2.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\pic2.png">
       <PackagePath>Images\pic2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\pic3.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\pic3.png">
       <PackagePath>Images\pic3.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\pic4.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\pic4.png">
       <PackagePath>Images\pic4.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\pic5.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\pic5.png">
       <PackagePath>Images\pic5.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\player.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\player.png">
       <PackagePath>Images\player.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\quiz.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\quiz.png">
       <PackagePath>Images\quiz.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\quizLevel.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\quizLevel.png">
       <PackagePath>Images\quizLevel.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\quizScore.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\quizScore.png">
       <PackagePath>Images\quizScore.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\save.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\save.png">
       <PackagePath>Images\save.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\score.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\score.png">
       <PackagePath>Images\score.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\scoreTitle.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\scoreTitle.png">
       <PackagePath>Images\scoreTitle.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\Images\start.png">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\Images\start.png">
       <PackagePath>Images\start.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\BibleBooks.xml">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\BibleBooks.xml">
       <PackagePath>BibleBooks.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\About.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\About.xbf">
       <PackagePath>About.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\BeginnerSettingsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\BeginnerSettingsPage.xbf">
       <PackagePath>BeginnerSettingsPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\BeginnersGame.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\BeginnersGame.xbf">
       <PackagePath>BeginnersGame.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\BooksHints.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\BooksHints.xbf">
       <PackagePath>BooksHints.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\ExtendedSplash.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\ExtendedSplash.xbf">
       <PackagePath>ExtendedSplash.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\MatureLevel.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\MatureLevel.xbf">
       <PackagePath>MatureLevel.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\MatureSettingsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\MatureSettingsPage.xbf">
       <PackagePath>MatureSettingsPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\QuizGame.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\QuizGame.xbf">
       <PackagePath>QuizGame.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\ScoreBeginner.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\ScoreBeginner.xbf">
       <PackagePath>ScoreBeginner.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\ScoreMature.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\ScoreMature.xbf">
       <PackagePath>ScoreMature.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\scores.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\scores.xbf">
       <PackagePath>scores.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\ScoresMenu.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\ScoresMenu.xbf">
       <PackagePath>ScoresMenu.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\Settings.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\Settings.xbf">
       <PackagePath>Settings.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\SoreQuiz.xbf">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\SoreQuiz.xbf">
       <PackagePath>SoreQuiz.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.xr.xml">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\Bible Books Game.xr.xml">
       <PackagePath>Bible Books Game.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="A:\New Bible books game\Bible-Books-Game\Bible Books Game\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\James\Documents\GitHub\Bible-Books-Game\Bible Books Game\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
